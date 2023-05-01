@@ -8,7 +8,7 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-Датасеты по проекту представлены в https://drive.google.com/drive/folders/1p3a7CrCYE2MQJk_ZWRYDU7iwBr8n0BGs?usp=share_link
+Датасеты и графики по проекту представлены в https://drive.google.com/drive/folders/1p3a7CrCYE2MQJk_ZWRYDU7iwBr8n0BGs?usp=share_link
 Построенные графика в формате .html  хранятся в 
 
 ## Использованные инструменты и библиотеки
